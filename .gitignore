@@ -2,4 +2,3 @@ Dockerfile
 k8s*
 html
 secrets
-ingress
