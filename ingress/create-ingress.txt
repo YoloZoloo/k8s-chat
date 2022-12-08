@@ -1,3 +1,0 @@
-You should handle this part by yourself. The following link provides very good tutorial if you are using digital ocean.
-For other cloud providers it might be even easier to configure ingress controller.
-https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nginx-ingress-with-cert-manager-on-digitalocean-kubernetes
