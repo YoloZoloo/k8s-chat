@@ -2,3 +2,5 @@ Dockerfile
 k8s*
 html
 secrets
+certs
+ingress/rules.yaml
